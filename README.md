@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harish Varma</h1>
 <h3 align="center">Navigating a Diverse Tech Journey: From Data Structures to AI, Web Development, and Beyond</h3>
-<img align="right" alt="coding" width="400"  src="https://drive.google.com/file/d/1xVc-rpyLqaV4xNPoiy4tZ4oaZkJCOQBr/view?usp=sharing"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishvarma7&label=Profile%20views&color=0e75b6&style=flat" alt="harishvarma7" /> </p>
 
 - 🔭 I’m currently working on **Myhealthpal**
